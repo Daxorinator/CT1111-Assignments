@@ -7,4 +7,7 @@ add_executable(HelloWorld
         01-hello-world/HelloWorld.c)
 
 add_executable(Donut
-        a-donut/donut.c)3
+        a-donut/donut.c)
+
+add_executable(Assignment2
+        02-assignment2/assignment2.c)

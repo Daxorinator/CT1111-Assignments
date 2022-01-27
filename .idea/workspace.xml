@@ -5,6 +5,8 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
+      <config projectName="CT1111_Assignments" targetName="Donut" />
+      <config projectName="CT1111_Assignments" targetName="Assignment2" />
       <config projectName="CT1111_Assignments" targetName="HelloWorld" />
     </generated>
   </component>
@@ -15,10 +17,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add CMake, 01-hello-world">
-      <change afterPath="$PROJECT_DIR$/.idea/CT1111_Assignments.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/a-donut/donut.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add appendix A - donut.c">
+      <change afterPath="$PROJECT_DIR$/02-assignment2/assignment2.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -76,7 +76,17 @@
       <recent name="C:\Users\daxor\CLionProjects\CT1111-Assignments\01-hello-world" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Donut">
+  <component name="RunManager" selected="CMake Application.Assignment2">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assignment2" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Assignment2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Assignment2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Donut" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Donut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Donut">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -88,6 +98,7 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="CMake Application.Assignment2" />
       <item itemvalue="CMake Application.Donut" />
       <item itemvalue="CMake Application.HelloWorld" />
     </list>
@@ -103,7 +114,7 @@
       <workItem from="1641831964399" duration="280000" />
       <workItem from="1641832258046" duration="498000" />
       <workItem from="1642684184004" duration="749000" />
-      <workItem from="1643288392737" duration="1000" />
+      <workItem from="1643288392737" duration="2781000" />
     </task>
     <task id="LOCAL-00001" summary="Add CMake, 01-hello-world">
       <created>1641832691901</created>
@@ -112,7 +123,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641832691901</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add appendix A - donut.c">
+      <created>1643288642215</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1643288642215</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add CMake, 01-hello-world" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add CMake, 01-hello-world" />
+    <MESSAGE value="Add appendix A - donut.c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add appendix A - donut.c" />
   </component>
 </project>
