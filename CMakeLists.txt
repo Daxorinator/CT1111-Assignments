@@ -3,5 +3,8 @@ project(CT1111_Assignments C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(CT1111_Assignments
+add_executable(HelloWorld
         01-hello-world/HelloWorld.c)
+
+add_executable(Donut
+        a-donut/donut.c)3
