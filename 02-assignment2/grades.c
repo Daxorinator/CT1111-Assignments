@@ -23,6 +23,9 @@ void main() {
         (lab * lab_weight) + (exam * exam_weight) + (assignment * assignment_weight)
     );
 
+    // Display final score
+    printf_s("Final Score: %.0f%% \n", final_score);
+
     // Match final scores to letter grades by sifting upward from 40%
     if (final_score < 40.0f) {
         printf_s("Letter Grade: E");
