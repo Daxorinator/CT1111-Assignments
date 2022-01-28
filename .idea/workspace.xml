@@ -18,9 +18,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add comments to Assignment 2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02-assignment2/grades.c" beforeDir="false" afterPath="$PROJECT_DIR$/02-assignment2/grades.c" afterDir="false" />
+    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add final score printing to grades.c">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643380115861</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add final score printing to grades.c">
+      <created>1643381239452</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1643381239452</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +178,7 @@
     <MESSAGE value="Add appendix A - donut.c" />
     <MESSAGE value="Add Assignment 1, rename files &amp; folders" />
     <MESSAGE value="Add comments to Assignment 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add comments to Assignment 2" />
+    <MESSAGE value="Add final score printing to grades.c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add final score printing to grades.c" />
   </component>
 </project>
