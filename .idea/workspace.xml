@@ -6,6 +6,7 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="CT1111_Assignments" targetName="Donut" />
+      <config projectName="CT1111_Assignments" targetName="Assignment1" />
       <config projectName="CT1111_Assignments" targetName="Assignment2" />
       <config projectName="CT1111_Assignments" targetName="HelloWorld" />
     </generated>
@@ -17,11 +18,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add appendix A - donut.c">
-      <change afterPath="$PROJECT_DIR$/02-assignment2/assignment2.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-    </list>
+    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Add Assignment 1, rename files &amp; folders" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
       <recent name="C:\Users\daxor\CLionProjects\CT1111-Assignments\01-hello-world" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Assignment2">
+  <component name="RunManager" selected="CMake Application.Assignment1">
     <configuration name="Assignment1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Assignment1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Assignment1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -136,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643288642215</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add Assignment 1, rename files &amp; folders">
+      <created>1643379740002</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1643379740002</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,6 +160,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add CMake, 01-hello-world" />
     <MESSAGE value="Add appendix A - donut.c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add appendix A - donut.c" />
+    <MESSAGE value="Add Assignment 1, rename files &amp; folders" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Assignment 1, rename files &amp; folders" />
   </component>
 </project>
