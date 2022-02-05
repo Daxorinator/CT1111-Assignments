@@ -15,3 +15,8 @@ add_executable(Assignment2
 add_executable(Donut
         a-donut/donut.c)
 
+add_executable(Assignment3-average
+        03-assignment3/average.c)
+
+add_executable(Assignment3-integers
+        03-assignment3/even_integers.c)
