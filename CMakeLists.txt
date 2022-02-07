@@ -20,3 +20,6 @@ add_executable(Assignment3-average
 
 add_executable(Assignment3-integers
         03-assignment3/even_integers.c)
+
+add_executable(Assignment4-array_average
+        04-assignment4/array_average.c)

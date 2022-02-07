@@ -8,6 +8,7 @@
       <config projectName="CT1111_Assignments" targetName="Donut" />
       <config projectName="CT1111_Assignments" targetName="Assignment3-average" />
       <config projectName="CT1111_Assignments" targetName="Assignment1" />
+      <config projectName="CT1111_Assignments" targetName="Assignment4-array_average" />
       <config projectName="CT1111_Assignments" targetName="Assignment2" />
       <config projectName="CT1111_Assignments" targetName="Assignment3-integers" />
       <config projectName="CT1111_Assignments" targetName="HelloWorld" />
@@ -20,9 +21,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Update README.md and add score printing to grades.c">
-      <change afterPath="$PROJECT_DIR$/03-assignment3/average.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03-assignment3/even_integers.c" afterDir="false" />
+    <list default="true" id="1f8ff686-3fa3-4b7e-b648-f8911fc3bd19" name="Changes" comment="Assignment 3: added average.c and even_integers.c">
+      <change afterPath="$PROJECT_DIR$/04-assignment4/array_average.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
     </list>
@@ -80,7 +80,12 @@
       <recent name="C:\Users\daxor\CLionProjects\CT1111-Assignments\01-hello-world" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.Assignment3-integers">
+  <component name="RunManager" selected="CMake Application.Assignment4-array_average">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Assignment1" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Assignment1" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Assignment1">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -101,6 +106,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Assignment4-array_average" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Assignment4-array_average" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Assignment4-array_average">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Donut" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CT1111_Assignments" TARGET_NAME="Donut" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CT1111_Assignments" RUN_TARGET_NAME="Donut">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -116,6 +126,7 @@
       <item itemvalue="CMake Application.Assignment2" />
       <item itemvalue="CMake Application.Assignment3-average" />
       <item itemvalue="CMake Application.Assignment3-integers" />
+      <item itemvalue="CMake Application.Assignment4-array_average" />
       <item itemvalue="CMake Application.Donut" />
       <item itemvalue="CMake Application.HelloWorld" />
     </list>
@@ -133,7 +144,8 @@
       <workItem from="1642684184004" duration="749000" />
       <workItem from="1643288392737" duration="2781000" />
       <workItem from="1644063567010" duration="3030000" />
-      <workItem from="1644066636074" duration="1000" />
+      <workItem from="1644066636074" duration="31000" />
+      <workItem from="1644228385716" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="Add CMake, 01-hello-world">
       <created>1641832691901</created>
@@ -177,7 +189,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643381706375</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Assignment 3: added average.c and even_integers.c">
+      <created>1644066658934</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644066658934</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,6 +220,7 @@
     <MESSAGE value="Add comments to Assignment 2" />
     <MESSAGE value="Add final score printing to grades.c" />
     <MESSAGE value="Update README.md and add score printing to grades.c" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update README.md and add score printing to grades.c" />
+    <MESSAGE value="Assignment 3: added average.c and even_integers.c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignment 3: added average.c and even_integers.c" />
   </component>
 </project>
