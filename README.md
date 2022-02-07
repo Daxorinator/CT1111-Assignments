@@ -18,5 +18,19 @@ The grades are calculated as follows:
 |--------------|-----|-------|-------|-------|-----|
 | Letter Grade | A   | B     | C     | D     | E   |
 
+#### 03-Assignment3 - Average.c:
+This program reads in integers until a sentinel value is entered (9999),
+and computes the average of all integers entered preceding the sentinel value.
+The program ensures no divide-by-zero's are present then calculates a 2-decimal average
+and prints it to the console, or returns "You have not entered any values".
+
+#### 03-Assignment3 - Even_Integers.c:
+This program finds sum of all even integers between 2 and 30 inclusive and prints it to the console.
+
+#### 04-Assignment4 - Array_Average.c:
+This program reads 15 integers into an array, then computes the average
+of the numbers in the array and prints it to the console. The program then calculates and displays
+the numbers in the array which are less than half the average of the array.
+
 #### a-donut - Appendix A - Donut.c:
-The well known donut.c program, in the shape of a donut, it prints out a rotating ASCII donut!
+The well known donut.c program, in the shape of a donut, it prints out a rotating ASCII donut! (May not work on Clang or MSVC)
