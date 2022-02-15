@@ -23,3 +23,9 @@ add_executable(Assignment3-integers
 
 add_executable(Assignment4-array_average
         04-assignment4/array_average.c)
+
+add_executable(Assignment5-vowel_finder
+        05-assignment5/vowel_finder.c)
+
+add_executable(Assignment5-string_reversal
+        05-assignment5/string_reversal.c)
